@@ -1,8 +1,5 @@
 # Hi there, I'm Martineja! 👋
 
-
-<img src="https://github.com/Mcoats19/Mcoats19/blob/main/pro%20pic.jpg?raw=true" alt="Martineja Professional Photo" width="200" style="border-radius: 50%;">
-
 ## 🌟 About Me
 ![Customer Success](https://img.shields.io/badge/Customer_Success-Expert-blueviolet)
 
