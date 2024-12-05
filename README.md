@@ -1,8 +1,11 @@
 # Hi there, I'm Martineja! 👋
 
+
 <img src="https://github.com/Mcoats19/Mcoats19/blob/main/pro%20pic.jpg?raw=true" alt="Martineja Professional Photo" width="200" style="border-radius: 50%;">
 
 ## 🌟 About Me
+![Customer Success](https://img.shields.io/badge/Customer_Success-Expert-blueviolet)
+
 I'm a results-driven Technical Customer Success Manager with expertise in driving platform adoption, solving complex technical challenges, and enabling customers to achieve measurable business outcomes. My work bridges the gap between technical teams and business stakeholders, leveraging data analytics and automation to deliver exceptional results. Outside of work, I enjoy exploring emerging technologies and mentoring the next generation of Customer Success professionals.
 
 ## 💼 Areas of Expertise
