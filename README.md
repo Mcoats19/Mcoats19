@@ -3,7 +3,7 @@
 ## 🌟 About Me
 ![Customer Success](https://img.shields.io/badge/Customer_Success-Expert-blueviolet)
 
-I'm a Technical Customer Success Manager passionate about helping organizations scale their data and AI initiatives through powerful, open-source technologies. I specialize in bridging the gap between business outcomes and technical implementation — translating strategy into measurable success.  
+I'm a Technical Customer Success Manager passionate about helping organizations scale their data and AI initiatives through powerful, open-source technologies. I specialize in bridging the gap between business outcomes and technical implementation, translating strategy into measurable success.  
 
 At the intersection of **Customer Success, Data Science, and DevOps**, I empower enterprise teams to build confidently, automate workflows, and drive adoption of platforms like **Posit (formerly RStudio)**, **GitLab**, and **Dataiku**.  
 
