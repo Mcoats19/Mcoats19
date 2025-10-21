@@ -23,6 +23,7 @@ I'm a results-driven Technical Customer Success Manager with expertise in drivin
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Dataiku](https://img.shields.io/badge/Dataiku-4B9CD3?style=for-the-badge&logo=dataiku&logoColor=white)
 ![Posit Connect](https://img.shields.io/badge/Posit_Connect-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
 ![API](https://img.shields.io/badge/API-0052CC?style=for-the-badge&logo=swagger&logoColor=white)
@@ -34,4 +35,4 @@ Driving innovation by building scalable customer success solutions through data-
 
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/martinejacoats)  
-- [Email](mailto:martineja@example.com)
+- [Email](mailto:martinejcoatsa@gmail.com)
